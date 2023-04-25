@@ -1,0 +1,12 @@
+Utilizei a formula de tempo = distância / velocidade 
+
+Para o carro:
+    tempo = 100 km / 110 km/h
+    tempo = 0,91 horas
+    convertendo para minutos: 54 minutos
+Para o caminhão:
+    tempo = 100 km / 80 km/h
+    tempo = 1.25
+    convertendo para minutos: 75 minutos + 10 minutos de pedagio
+
+Conclusão: O carro definitivamente chegou primeiro
